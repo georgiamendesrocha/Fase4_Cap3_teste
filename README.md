@@ -8,15 +8,18 @@ Praticar o uso da biblioteca scikit-learn em Python, com foco inicial em técnic
 
 ## Conteúdo testado
 
-- Criação de dataset com Pandas
+- Criação de dataset fictício com Pandas
 - Aplicação de LabelEncoder
 - Aplicação de OneHotEncoder
 - Aplicação de OrdinalEncoder
+- Uso da função train_test_split
+- Separação de dados em treino e teste
 - Exibição dos resultados no terminal usando print()
 
-## Arquivo principal
+## Arquivos do projeto
 
-- `dataset_teste.py`
+- `dataset_teste.py`: teste com criação de dataset e codificação categórica
+- `model_selection_teste.py`: teste com divisão de dados em treino e teste usando train_test_split
 
 ## Observação
 
