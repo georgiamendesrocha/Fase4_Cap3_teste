@@ -21,6 +21,14 @@ Praticar o uso da biblioteca scikit-learn em Python, com foco inicial em técnic
 - `dataset_teste.py`: teste com criação de dataset e codificação categórica
 - `model_selection_teste.py`: teste com divisão de dados em treino e teste usando train_test_split
 
+## Notebooks de estudo
+
+- `cap3_projeto_sklearn.ipynb`: testes iniciais com scikit-learn e exemplos gerais do capítulo.
+- `cap3_dataset_california.ipynb`: testes com o dataset California Housing e algoritmos de regressão.
+- `cap3_dataset_wine.ipynb`: testes com o dataset Wine, classificação, KNN e métricas.
+- `cap3_metricas_avaliacao.ipynb`: testes com métricas como acurácia, precisão, recall, F1-score e matriz de confusão.
+- `cap3_clusterizacao_make_blobs.ipynb`: testes com make_blobs, K-Means e DBSCAN.
+
 ## Observação
 
-Os testes foram feitos em ambiente local com Python, VS Code e ambiente virtual.
+Os testes foram realizados em ambiente local com Python, VS Code e ambiente virtual, além de notebooks executados no Google Colab. O objetivo do repositório é registrar práticas do Capítulo 3 envolvendo datasets, pré-processamento, divisão treino/teste, modelos de Machine Learning e métricas de avaliação com scikit-learn.
